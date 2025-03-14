@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "358150375400",
+    "project_id": "phurin-phuangmadue",
+    "storage_bucket": "phurin-phuangmadue.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358150375400:android:c951f99e76d327e4ab865d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMzpbhNAZsl3Q8bdLR_-yRtJOBo-jLQZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358150375400:android:d8107715ded524c8ab865d",
+        "android_client_info": {
+          "package_name": "com.example.your_unique_application_id"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMzpbhNAZsl3Q8bdLR_-yRtJOBo-jLQZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
