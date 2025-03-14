@@ -46,11 +46,11 @@ class _HomeScreenState extends State<HomeScreen> {
                     mainAxisSize: MainAxisSize.min,
                     children: [
                       IconButton(
-                        icon: Icon(Icons.edit, color: Colors.blue),
+                        icon: Icon(Icons.edit, color: const Color.fromARGB(255, 0, 0, 0)),
                         onPressed: () => _editGame(game.id, gameData['name'], gameData['developer'], gameData['category']),
                       ),
                       IconButton(
-                        icon: Icon(Icons.delete, color: Colors.red),
+                        icon: Icon(Icons.delete, color: const Color.fromARGB(255, 0, 0, 0)),
                         onPressed: () => _firestoreService.deleteGame(game.id),
                       ),
                     ],
